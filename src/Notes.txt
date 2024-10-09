@@ -1,0 +1,28 @@
+📌 TODO: 
+1. koin (display and updating)          [✅]
+2. update score to db                   [✅]
+3. open secret level logic              [✅]
+4. re-make the leaderboard              [✅]
+5. display coin in bonus page           [✅] 
+6. if time is 0 then lose               [✅]
+7. user purchase db bro                 [✅]
+8. score dan koin (bonus level)         [✅]
+9. if user try again random again?      [✅]
+10. edit all ui                         [✅]
+11. insert score data to DB             [✅]
+
+
+🎰 terkait database
+- cek soal and jawaban
+
+
+🐞 Bug 
+
+
+✅
+
+
+🪼 Font Style
+Title       : Fredoka One
+Text font   : Nunito
+Button      : Monserat/Nunito
